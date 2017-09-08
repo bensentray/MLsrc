@@ -7,3 +7,6 @@ creating a new branch is quick and simple.
 hello
 aa
 dev branch
+NN2.py  
+  - MLP neural network 
+  - implement feedforward and back propagation functions for MLP
